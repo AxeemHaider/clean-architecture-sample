@@ -1,0 +1,1 @@
+from factory.user import User
